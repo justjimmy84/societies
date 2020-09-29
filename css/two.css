@@ -1,0 +1,93 @@
+
+.char {
+    position: absolute;
+    height: 74px;
+    width: 50px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+body {
+    background: url('https://vignette.wikia.nocookie.net/among-us-wiki/images/0/0a/Mirahq.png') no-repeat center center fixed;
+    background-size: contain;
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+/* #bg {
+} */
+
+/* #canvas {
+    background-image: url('https://vignette.wikia.nocookie.net/among-us-wiki/images/0/0a/Mirahq.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+} */
+
+#black {
+    background-image: url('https://vignette.wikia.nocookie.net/among-us-wiki/images/5/55/7_black.png/revision/latest/scale-to-width-down/140?cb=20200912125223');
+    top: 0px;
+}
+
+#blue {
+    background-image: url('https://vignette.wikia.nocookie.net/among-us-wiki/images/8/8e/2_blue.png/revision/latest/scale-to-width-down/140?cb=20200912125155');
+    top: 104px;
+}
+
+#brown {
+    background-image: url('https://vignette.wikia.nocookie.net/among-us-wiki/images/b/b2/10_brown.png/revision/latest/scale-to-width-down/140?cb=20200912125240');
+    top: 208px;
+}
+
+#cyan {
+    background-image: url('https://vignette.wikia.nocookie.net/among-us-wiki/images/f/f2/11_cyan.png/revision/latest/scale-to-width-down/140?cb=20200912125246');
+    top: 312px;
+}
+
+#green {
+    background-image: url('https://vignette.wikia.nocookie.net/among-us-wiki/images/3/34/3_green.png/revision/latest/scale-to-width-down/140?cb=20200912125201');
+    top: 416px;
+}
+
+#lime {
+    background-image: url('https://vignette.wikia.nocookie.net/among-us-wiki/images/f/fd/12_lime.png/revision/latest/scale-to-width-down/140?cb=20200912125258');
+    top: 520px;
+}
+
+#orange {
+    background-image: url('https://vignette.wikia.nocookie.net/among-us-wiki/images/f/f1/5_orange.png/revision/latest/scale-to-width-down/140?cb=20200912125212');
+    top: 0px;
+    left: 80px;
+}
+
+#pink {
+    background-image: url('https://vignette.wikia.nocookie.net/among-us-wiki/images/9/9b/4_pink.png/revision/latest/scale-to-width-down/140?cb=20200912125206');
+    top: 104px;
+    left: 80px;
+}
+
+#purple {
+    background-image: url('https://vignette.wikia.nocookie.net/among-us-wiki/images/7/72/9_purple.png/revision/latest/scale-to-width-down/140?cb=20200912125234');
+    top: 208px;
+    left: 80px;
+}
+
+#red {
+    background-image: url('https://vignette.wikia.nocookie.net/among-us-wiki/images/a/a6/1_red.png/revision/latest/scale-to-width-down/140?cb=20200912125145');
+    top: 312px;
+    left: 80px;
+}
+
+#tan {
+    background-image: url('https://vignette.wikia.nocookie.net/among-us-wiki/images/8/87/Tan.png/revision/latest?cb=20200921181340');
+    top: 416px;
+    left: 80px;
+}
+
+#white {
+    background-image: url('https://vignette.wikia.nocookie.net/among-us-wiki/images/e/e1/8_white.png/revision/latest/scale-to-width-down/140?cb=20200912125229');
+    top: 520px;
+    left: 80px;
+}
